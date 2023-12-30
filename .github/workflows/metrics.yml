@@ -42,7 +42,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage
           plugin_languages_indepth: no
-          plugin_languages_ignored: RenderScript, "Rich Text Format"
+          plugin_languages_ignored: RenderScript
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 365
